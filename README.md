@@ -1,2 +1,4 @@
 # TechPro
-- Christian Jacob Arizala -
+- Christian Jacob Arizala
+
+# Computer Programming
