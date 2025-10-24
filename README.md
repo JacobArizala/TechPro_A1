@@ -1,1 +1,2 @@
 # TechPro
+- Christian Jacob Arizala -
